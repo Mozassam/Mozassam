@@ -137,7 +137,7 @@ Deep Learning project using TensorFlow and Keras.
 
 # 🌐 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/mozassam-imam
+- 💼 LinkedIn: https://www.linkedin.com/in/mozassam-imam-79058528a/
 - 📧 Email: omaaaguuu@gmail.com
 
 ---
