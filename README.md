@@ -13,7 +13,7 @@
 - 💻 Passionate about **Full Stack Development**
 - 🤖 Interested in **Artificial Intelligence & Machine Learning**
 - 🌱 Currently learning **System Design, Advanced DSA & Cloud**
-- 🎯 Goal: Become a **Software Engineer**
+
 
 ---
 
