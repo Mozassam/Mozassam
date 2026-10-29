@@ -105,18 +105,18 @@ Deep Learning project using TensorFlow and Keras.
 
 ---
 
-<h2>🏆 GitHub Trophies</h2>
+### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Imam12&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Imam12" alt="GitHub Trophies" />
 </p>
 
 ---
 
-<h2>📈 Contribution Graph</h2>
+### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Imam12&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Imam12&theme=tokyo-night" alt="Contribution Graph" />
 </p>
 
 ---
